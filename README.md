@@ -1,22 +1,22 @@
-## Chega mais, esse é o meu perfil!
+# Chega mais, esse é o meu perfil!
 <div>
   <div>
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=BrunoAndradeDinis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAndradeDinis&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-    
+    <img src="https://servidor-estatico-one-wheat.vercel.app/notebook.png" min-width="400px" max-width="400px" width="400px" align="right"/>
 <div style="display: grid; grid-template-columns: 1fr 1fr;grid-template-areas: 'titulo titulo' 'item1 item2' 'item3 item4';">
-      <h2 style="grid-area: titulo;">Tecnologias e ferramentas</h2>
+      <h1 style="grid-area: titulo;">Tecnologias e ferramentas</h1>
       
   <div style="grid-area: item1;">
-        <h3>Minhas Stacks</h3>
+        <h2>Minhas Stacks</h2>
         <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
         <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
         <img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     </div>
     <div style="grid-area: item2;">
-        <h3>Minhas ferramentas de desenvolvimento</h3>
+        <h2>Minhas ferramentas de desenvolvimento</h2>
         <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
         <img align="center" alt="VueJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
         <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
@@ -30,7 +30,7 @@
         <img align="center" alt="Sass" height="30" width="30" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" width='50px'/>
     </div>
     <div style="grid-area: item3;">
-        <h3>Banco de dados</h3>
+        <h2>Banco de dados</h2>
         <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
         <img align="center" alt="PostgressSql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
     </div>
