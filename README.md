@@ -36,7 +36,7 @@
     </div>
     <div style="grid-area: item5;"> 
       <h2>Pudim Score</h2>
-      <img height="300em" alt="Pudim Score" src="https://pudim.dev/badge/BrunoAndradeDinis" />
+      <img height="240em" alt="Pudim Score" src="https://pudim.dev/badge/BrunoAndradeDinis" />
     </div>
 
 
