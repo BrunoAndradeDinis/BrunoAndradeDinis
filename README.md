@@ -1,9 +1,9 @@
-# Chega mais, esse é o meu perfil!
+<!-- # Chega mais, esse é o meu perfil! -->
 <div>
-  <div>
+  <!-- <div>
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=BrunoAndradeDinis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAndradeDinis&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+</div> -->
     <img src="https://servidor-estatico-one-wheat.vercel.app/notebook.png" min-width="400px" max-width="400px" width="400px" align="right"/>
 <div style="display: grid; grid-template-columns: 1fr 1fr;grid-template-areas: 'titulo titulo' 'item1 item2' 'item3 item4' 'item5 item6';">
   <h1 style="grid-area: titulo;">Tecnologias e ferramentas</h1>
@@ -34,10 +34,10 @@
         <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
         <img align="center" alt="PostgressSql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
     </div>
-    <div style="grid-area: item5;"> 
+    <!-- <div style="grid-area: item5;"> 
       <h2>Pudim Score</h2>
       <img height="240em" alt="Pudim Score" src="https://pudim.dev/badge/BrunoAndradeDinis" />
-    </div>
+    </div> -->
 
 
  
