@@ -1,4 +1,7 @@
 <!-- # Chega mais, esse é o meu perfil! -->
+# Hello World, I'm Bruno 👋
+![Antifascist badge](https://img.shields.io/badge/dev-antifascista-red)
+  
 <div>
   <!-- <div>
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=BrunoAndradeDinis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -6,7 +9,7 @@
 </div> -->
     <img src="https://servidor-estatico-one-wheat.vercel.app/notebook.png" min-width="400px" max-width="400px" width="400px" align="right"/>
 <div style="display: grid; grid-template-columns: 1fr 1fr;grid-template-areas: 'titulo titulo' 'item1 item2' 'item3 item4' 'item5 item6';">
-  <h1 style="grid-area: titulo;">Tecnologias e ferramentas</h1>
+  <h2 style="grid-area: titulo;">Tecnologias e ferramentas</h1>
       
   <div style="grid-area: item1;">
         <h2>Minhas Stacks</h2>
@@ -16,7 +19,7 @@
         <img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     </div>
     <div style="grid-area: item2;">
-        <h2>Minhas ferramentas de desenvolvimento</h2>
+        <h3>Minhas ferramentas de desenvolvimento</h2>
         <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
         <img align="center" alt="VueJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
         <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
